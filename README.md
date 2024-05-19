@@ -23,13 +23,16 @@ acceleration.
 
 # Citation
 If you use this repository or any of its components and/or our paper as part of your research, please cite the publication as follows:
-> G. Sánchez-Brizuela *et al.* "Lightweight Real Time Hand Segmentation Leveraging MediaPipe Landmark Detection," *Virtual Reality*, Under Review (2023).
+> G. Sánchez-Brizuela *et al.* "Lightweight Real Time Hand Segmentation Leveraging MediaPipe Landmark Detection," *Virtual Reality*,  27, 3125–3132 (2023). https://doi.org/10.1007/s10055-023-00858-0
 
 ```
 @article{handsegmentation2023,
   title={Lightweight Real Time Hand Segmentation Leveraging MediaPipe Landmark Detection},
   author={Sánchez-Brizuela, Guillermo and Cisnal, Ana and de la Fuente-Lopez, Eusebio and Fraile, Juan-Carlos and Pérez-Turiel, Javier},
-  journal={Virtual Reality},
-  year={2023}
+  journal={Virtual Reality},  
+  pages = {3125--3132},
+  vol = {27},
+  year={2023},
+  doi = {10.1007/s10055-023-00858-0},
 }
 ```
